@@ -12,7 +12,7 @@ const Footer = () => {
   const socialLinks = [
   {
     icon: FaInstagram,
-    link: "https://www.instagram.com/durg_aagencies/",
+    link: "https://www.instagram.com/durga_agencies_01/",
   },
   {
     icon: FaFacebookF,
